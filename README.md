@@ -8,7 +8,7 @@ Hello, I'm Fabrizio, an aspiring Front-End Developer currently enrolled in the F
 
 * 🌍  I'm based in Orlando, Florida
 * ✉️  You can contact me at [fabrizioterribile@gmail.com](mailto:fabrizioterribile@gmail.com)
-* ⚡  Debugging and troubleshooting are part of the process — and I never give up until I find the solution!
+* ⚡  Debugging and troubleshooting are part of the process, and I never give up until I find the solution!
 
 ### Skills
 
